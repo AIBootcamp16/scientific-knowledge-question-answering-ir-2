@@ -54,7 +54,6 @@ IR_contest/
 │   └── build_doc_vectors_cache.py          # 문서 임베딩 캐시 생성(.npy)
 ├── notebook/
 │   ├── 11a_*.ipynb                  # 주력 파이프라인(BM25 + Dense + rerank)
-│   ├── 11h_*.ipynb                  # 16-IR_Project 스타일 실험 파이프라인
 │   └── ...                          # 실험/스냅샷/백업들
 ├── outputs/
 │   └── submission/
