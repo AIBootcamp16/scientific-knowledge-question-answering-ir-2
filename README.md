@@ -56,7 +56,6 @@ IR_contest/
 │   ├── 11a_*.ipynb                  # 주력 파이프라인(BM25 + Dense + rerank)
 │   ├── 11h_*.ipynb                  # 16-IR_Project 스타일 실험 파이프라인
 │   └── ...                          # 실험/스냅샷/백업들
-├── experiemnt/                      # 참고/이전 프로젝트 코드(16-IR_Project 포함)
 ├── outputs/
 │   └── submission/
 │       ├── *_custom_faiss.csv       # 제출 파일(JSONL lines지만 확장자는 csv로 유지)
